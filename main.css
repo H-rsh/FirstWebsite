@@ -1,12 +1,31 @@
-h1 
+h1
 {
 	font-size: 40px;
+    font-weight: bolder;
 	text-align: center;
     font-family: Palatino, 'Palatino Linotype', serif;
     color: white
 }
-h3
+
+p2
 {
+    font-size: 30px;
+    margin: 30px;
+    font-weight: 500;
     font-family: Palatino, 'Palatino Linotype', serif;
-    color: rgb(225, 225, 225)
+    color: rgb(255, 236, 221)
+}
+
+p
+{
+    font-size: 19px;
+	text-align: center;
+    font-family: Palatino, 'Palatino Linotype', serif;
+    color:rgb(255, 119, 119)
+}
+
+.text 
+{
+    background-image: url('https://images.pexels.com/photos/2767814/pexels-photo-2767814.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    filter: brightness(90%);
 }
